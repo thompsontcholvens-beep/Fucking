@@ -1,0 +1,40 @@
+body {
+    background: azure;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+section{
+    background: green;
+    width: 420px;
+    padding:30px ;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
+button{
+    width: 125px;
+    height: 25px;
+    color: black;
+    background: gold;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+    font-size: 20px;
+    
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+footer{
+    text-align: center;
+    justify-content: center ;
+    color:rgba(200,180,000,0.69);
+}
+.powered{
+    color: #ffff;
+    background: transparent ;
+    width: 120px;
+    height: 25px;
+}
